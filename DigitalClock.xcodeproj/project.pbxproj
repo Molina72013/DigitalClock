@@ -19,6 +19,7 @@
 		35D94B302118A73600D01830 /* digital-7 (italic).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35D94B2A2117FFE900D01830 /* digital-7 (italic).ttf */; };
 		35D94B312118A73900D01830 /* digital-7 (mono italic).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35D94B2B2118000900D01830 /* digital-7 (mono italic).ttf */; };
 		35D94B342118BC5100D01830 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D94B332118BC5100D01830 /* SettingsViewController.m */; };
+		40459C632123486200DC2C5B /* TestinGit.m in Sources */ = {isa = PBXBuildFile; fileRef = 40459C622123486200DC2C5B /* TestinGit.m */; };
 		40873532211B6C7A0025CF82 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 352EBAF121110BD500E3E8FF /* ViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +44,7 @@
 		35D94B2B2118000900D01830 /* digital-7 (mono italic).ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "digital-7 (mono italic).ttf"; path = "../New Group/digital-7 (mono italic).ttf"; sourceTree = "<group>"; };
 		35D94B322118BC5100D01830 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
 		35D94B332118BC5100D01830 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		40459C622123486200DC2C5B /* TestinGit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestinGit.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		352EBAE121110BD500E3E8FF = {
 			isa = PBXGroup;
 			children = (
+				40459C622123486200DC2C5B /* TestinGit.m */,
 				352EBAEC21110BD500E3E8FF /* DigitalClock */,
 				352EBAEB21110BD500E3E8FF /* Products */,
 			);
@@ -210,6 +213,7 @@
 				35D94B342118BC5100D01830 /* SettingsViewController.m in Sources */,
 				352EBAEF21110BD500E3E8FF /* AppDelegate.m in Sources */,
 				3599D0682114F8170090FCB7 /* background.m in Sources */,
+				40459C632123486200DC2C5B /* TestinGit.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
